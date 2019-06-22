@@ -2,13 +2,13 @@
 
 This is John Conway's Game of Life, a cellular automaton that simulates a basic form of evolution.
 
-# Info
+## Info
 
 At the moment, it only function in the console window, but in time I might make it into a windowed application using SFML or a similar library to make it look more normal.
 
 The application has only been tested on Windows, but is designed to work on Unix as well.
 
-# Usage
+## Usage
 
 To run the application, simply invoke it in a terminal:
 
