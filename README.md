@@ -4,7 +4,7 @@ This is John Conway's Game of Life, a cellular automaton that simulates a basic 
 
 ## Info
 
-At the moment, it only function in the console window, but in time I might make it into a windowed application using SFML or a similar library to make it look more normal.
+At the moment, it only function in the console window, but if you'd like to see a windowed version, I've made one [here](https://github.com/WKHAllen/Life).
 
 The application has only been tested on Windows, but is designed to work on Unix as well.
 
